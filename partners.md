@@ -2,8 +2,6 @@
 
 Become a partner to **shape the future of open source in Africa** by providing learners with essential resources, career opportunities, and the tools they need to thrive in technology.
 
----
-
 ## Types of Partnerships
 
 ### 1. Sponsor: Invest in local talent 💸
@@ -17,8 +15,6 @@ Community partners can support our developers by donating tools, hosting worksho
 ### 3. Education: Share knowledge & co-host events 🧠
 
 Partner with Open Source Kigali to bring **learning paths, workshops, and hackathons** to your community. Co-host skill-building events and advise on future topics to empower the next generation of African developers.
-
----
 
 ## How You Can Get Involved
 
