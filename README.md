@@ -19,7 +19,7 @@ Our mission is to **promote a culture of contribution**, **empower local talent*
 
 ##  Monthly Webinar Series
 
-Every month, **Open Source Kigali** hosts an online session featuring an **international guest speaker** who shares insights on open source, innovation, or community building.
+Every month, **Open Source Kigali** hosts an [online session]() featuring an **international guest speaker** who shares insights on open source, innovation, or community building.
 
 * Interactive Q&A
 * Recorded sessions available
