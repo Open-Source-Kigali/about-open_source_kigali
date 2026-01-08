@@ -1,70 +1,105 @@
-#  Open Source Kigali 
+# Open Source Kigali
 
-### Empowering Rwanda and Africa’s Tech Community through Open Source
+Open Source Kigali is a community-driven initiative that showcases and supports open source projects built by developers from Rwanda and across Africa.
 
-##  About
+Our goal is to make open source **visible, accessible, and collaborative**.
 
-**Open Source Kigali** is a community driven initiative that connects developers, students, and tech professionals from Rwanda and across Africa to learn, collaborate, and build together through open source.
+---
 
-Our mission is to **promote a culture of contribution**, **empower local talent**, and **bridge Africa’s developers with the global open source ecosystem**.
+## Mission
 
-## Our Goals
+- Promote open source contribution in Rwanda & Africa
+- Help developers showcase their projects
+- Enable collaboration between beginners and experienced engineers
+- Connect local projects to the global open source ecosystem
 
-* Encourage open source contribution across Rwanda and  Africa.
-* Connect African developers with international experts.
-* Build and maintain impactful open source projects.
-* Host **monthly webinars/ meetups** with local and global guests to discuss open source topics.
-* Create collaboration opportunities for students, startups, and professionals.
+---
 
+## Project Categories
 
-##  Monthly Webinar Series
+Projects are grouped by domain:
 
-Every month, **Open Source Kigali** hosts an [online session]() featuring an **international guest speaker** who shares insights on open source, innovation, or community building.
+- **EdTech** – Education & learning platforms
+- **AgriTech** – Agriculture & farming solutions
+- **FinTech** – Payments, banking, financial tools
+- **JobTech** – Hiring, HR, career platforms
+- **HealthTech** – Healthcare & medical solutions
+- **GovTech** – Public services & civic tech
+- **Cloud & DevOps**
+- **AI & Data**
+- **Open Tools / Libraries**
+- **Others**
 
-* Interactive Q&A
-* Recorded sessions available
-* Open to everyone
+---
 
-*If you want to be a guest speaker, reach out below!*
+## Where are the projects?
 
-##  How to Get Involved
+All projects are listed in **`PROJECTS.md`**
 
-1. **Join the community**
+Each project includes:
 
-   * Follow us on [GitHub](https://github.com/Open-Source-Kigali) and [LinkedIn](https://www.linkedin.com/company/open-source-kigali/?viewAsMember=true).
-   * Attend our monthly webinars.
+- Name
+- Description
+- Tech stack
+- GitHub link
+- Maintainer
 
-2. **Contribute to our projects**
+---
 
-   * Check the repositories under the [Open Source Kigali](#) organization.
-   * Pick an issue labeled `good first issue`.
+## How to Add Your Project (2 Ways)
 
-3. **Collaborate**
+### Option 1: Fork & Pull Request (Recommended)
 
-   * Partner with us to promote open source education and innovation in Africa.
+1. Fork this repository
+2. Edit `PROJECTS.md`
+3. Add your project under the correct category
+4. Commit your changes
+5. Open a Pull Request
+6. The Open Source Kigali team will review & merge 🎉
 
-##  Want to Collaborate or Speak?
+---
 
-We’re always open to connect with:
+### Option 2: Create an Issue (Beginner Friendly)
 
-* Open source contributors & maintainers
-* Tech communities & universities
-* Companies supporting open innovation
+1. Go to **Issues**
+2. Click **New Issue**
+3. Choose **“Add a new project”**
+4. Fill in the form
+5. A maintainer will add it for you
 
-**Contact:** [opensourcekigali@gmail.com](mailto:opensourcekigali@gmail.com)
-**Website (coming soon):** opensourcekigali.org
+---
 
-## Maintained by
+## 🧑Contribution Rules
 
-**[Didas Mbarushimana](https://github.com/DidasMba)**
-Lead, Organizer & Moderator — *Open Source Kigali*
+- Project **must be open source**
+- GitHub repository must be public
+- Clear README in your project repo
+- Be respectful & collaborative
 
-> “We believe open source is not just about code  it’s about collaboration, learning, and building a better future together.”
+---
+
+## Who Can Contribute?
+
+- Students
+- Developers
+- Startups
+- Communities
+- Anyone building open source
+
+---
+
+## Contact & Community
+
+- GitHub: https://github.com/Open-Source-Kigali
+- Email: opensourcekigali@gmail.com
+- Website: coming very soon
+
+---
 
 ## Support the Initiative
 
-If you believe in what we do, you can help us by:
+- Star this repository ⭐
+- Share with your community
+- Invite others to contribute
 
-* Giving a ⭐ to this repo
-* Sharing our events
-* Inviting others to join the community
+> “Open source is not just about code — it’s about people, learning, and impact.”
