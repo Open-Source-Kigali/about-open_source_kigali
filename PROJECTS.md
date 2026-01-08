@@ -1,53 +1,76 @@
-# Open Source Kigali Projects
+# Open Source Projects
 
-Welcome! Here are the projects you can contribute to, organized by category:
+This file contains a list of **open source projects shared by the Open Source Kigali community**.
 
-## Edutech
+Anyone can:
 
-- [Open Learning Platform](https://github.com/username/open-learning) — Beginner-friendly, PRs welcome
-- [EduCourse Manager](https://github.com/username/educourse-manager) — Intermediate, course management system
+- Browse projects to contribute
+- Add their own open source project via Pull Request or Issue
 
-## Agritech
+---
 
-- [Farm Tracker](https://github.com/username/farm-tracker) — Intermediate, helps farmers track crops
-- [AgriMarket](https://github.com/username/agrimarket) — Beginner-friendly, marketplace for farm products
+## Project Format
 
-## Fintech
+When adding a project, please use this format:
 
-- [Digital Payments API](https://github.com/username/digital-payments) — Advanced, secure payment system
-- [Budget Tracker](https://github.com/username/budget-tracker) — Beginner-friendly, personal finance management
+- **Project Name**  
+  Short description (1–2 lines)  
+  **Tech:** technologies used  
+  **Repo:** GitHub repository link  
+  **Maintainer:** @github-username
 
-## JobTech
+---
 
-- [Job Connect](https://github.com/username/job-connect) — Beginner-friendly, connects job seekers and employers
-- [Career Pathway](https://github.com/username/career-pathway) — Intermediate, career planning platform
+## EdTech (Education & Learning)
 
-## Cloud / DevOps
+- **Example: LearnHub**  
+  A platform for sharing learning resources  
+  **Tech:** React, Node.js  
+  **Repo:** https://github.com/username/learnhub  
+  **Maintainer:** @username
 
-- [Nestify](https://github.com/Open-Source-Kigali/nestify) — Advanced, CLI for NestJS apps
-- [Cloud Logger](https://github.com/username/cloud-logger) — Intermediate, log management tool for cloud apps
+---
 
-## AI / Data
+## AgriTech (Agriculture & Farming)
 
-- [AI Kigali](https://github.com/username/ai-kigali) — Advanced, machine learning & data projects
-- [DataViz Tools](https://github.com/username/dataviz-tools) — Beginner-friendly, data visualization toolkit
+- **FarmSmart**  
+  Digital tools for smallholder farmers  
+  **Tech:** Flutter, Firebase  
+  **Repo:** https://github.com/username/farmsmart  
+  **Maintainer:** @username
 
-## Web / Mobile Apps
+---
 
-- [UI Kigali](https://github.com/username/ui-kigali) — Intermediate, design system
-- [Kigali Events App](https://github.com/username/kigali-events) — Beginner-friendly, local events app
+## FinTech (Payments & Finance)
+
+- _No projects yet_
+
+---
+
+## 💼 JobTech (Jobs & Hiring)
+
+- _No projects yet_
+
+---
+
+## Cloud & DevOps
+
+- _No projects yet_
+
+---
+
+## AI & Data
+
+- _No projects yet_
+
+---
 
 ## HealthTech
 
-- [Health Tracker](https://github.com/username/health-tracker) — Intermediate, health monitoring system
-- [TeleHealth Portal](https://github.com/username/telehealth-portal) — Beginner-friendly, virtual health consultations
+- _No projects yet_
 
-## GovTech / CivicTech
+---
 
-- [Civic Portal](https://github.com/username/civic-portal) — Beginner-friendly, connects citizens with services
-- [E-Voting System](https://github.com/username/e-voting) — Advanced, secure voting platform
+## Others
 
-## Others / Misc
-
-- [Fun Open Source Project](https://github.com/username/fun-project) — Beginner-friendly, just for learning
-- [Community Tools](https://github.com/username/community-tools) — Intermediate, tools for local communities
+- _No projects yet_
