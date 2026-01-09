@@ -34,7 +34,7 @@ Projects are grouped by domain:
 
 ## Where are the projects?
 
-All community projects are listed in **`PROJECTS.md`**.
+All community projects are listed in [PROJECTS.md](PROJECTS.md)
 
 Each project includes:
 
@@ -97,6 +97,7 @@ If you’re new to GitHub:
 - GitHub: https://github.com/Open-Source-Kigali
 - Email: opensourcekigali@gmail.com
 - Website: coming soon
+  Organizer : Didas Mbarushimana [https://www.linkedin.com/in/didasmbarushimana/]
 
 ---
 
