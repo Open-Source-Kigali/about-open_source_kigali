@@ -53,7 +53,7 @@ Each project includes:
 ### Option 1: Fork & Pull Request (Recommended)
 
 1. Fork this repository
-2. Open `PROJECTS.md`
+2. Open [PROJECTS.md](PROJECTS.md)
 3. Add your project under the correct category
 4. Commit your changes
 5. Open a Pull Request
