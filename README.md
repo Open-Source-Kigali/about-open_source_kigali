@@ -1,4 +1,8 @@
-# Open Source Kigali
+<p align="center">
+  <img src="assets/OSKwhite.png" alt="Open Source Kigali Logo" width="200"/>
+</p>
+
+# Open Source Kigalii
 
 Open Source Kigali is a community-driven initiative that showcases and supports **open source projects built by developers from Rwanda and across Africa**.
 
