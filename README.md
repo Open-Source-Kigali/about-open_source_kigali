@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="assets/OSKwhite.png" alt="Open Source Kigali Logo" width="200"/>
+  <img src="assets/OSKwhite.png" alt="Open Source Kigali Logo" width="250"/>
 </p>
 
-# Open Source Kigalii
+# Open Source Kigali
 
 Open Source Kigali is a community-driven initiative that showcases and supports **open source projects built by developers from Rwanda and across Africa**.
 
@@ -101,7 +101,6 @@ If you’re new to GitHub:
 - GitHub: https://github.com/Open-Source-Kigali
 - Email: opensourcekigali@gmail.com
 - Website: coming soon
-  Organizer : Didas Mbarushimana [https://www.linkedin.com/in/didasmbarushimana/]
 
 ---
 
